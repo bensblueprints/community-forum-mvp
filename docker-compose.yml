@@ -1,0 +1,19 @@
+services:
+  forumly:
+    build: .
+    container_name: forumly
+    restart: unless-stopped
+    ports:
+      - "5366:5366"
+    environment:
+      - PORT=5366
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me}
+      - DB_PATH=/app/data/forumly.db
+      - RATE_LIMIT_MAX=${RATE_LIMIT_MAX:-10}
+      - RATE_LIMIT_WINDOW_MS=${RATE_LIMIT_WINDOW_MS:-60000}
+      - MIN_POST_MS=${MIN_POST_MS:-2000}
+    volumes:
+      - forumly-data:/app/data
+
+volumes:
+  forumly-data:
