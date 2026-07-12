@@ -55,7 +55,7 @@ docker compose up -d   # VPS mode, SQLite persisted in a volume
 
 ## ☕ Skip the setup — get the 1-click installer
 
-Grab the packaged Windows installer on Whop: **https://whop.com/onetime-suite**
+Grab the packaged Windows installer on Whop: **https://whop.com/benjisaiempire/forumly
 
 ## Tech stack
 
