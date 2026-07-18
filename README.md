@@ -1,5 +1,9 @@
 # 💬 Forumly
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 **Your community, your server. Pay once — forums existed before SaaS pricing did.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
