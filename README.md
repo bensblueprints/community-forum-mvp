@@ -2,7 +2,11 @@
 
 ## Demo
 
-VIDEO-PLACEHOLDER
+
+
+https://github.com/user-attachments/assets/c536539c-77fd-4bce-b917-909be297d1f1
+
+
 
 **Your community, your server. Pay once — forums existed before SaaS pricing did.**
 
