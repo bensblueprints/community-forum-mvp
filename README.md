@@ -1,5 +1,11 @@
 # 💬 Forumly
 
+## Get the packaged app
+
+Don't want to build from source? Get the signed installer, lifetime updates and setup support for a one-time payment at [onetimesuite.com/forumly](https://onetimesuite.com/forumly/) — same app, MIT source right here.
+
+Part of [OneTimeSuite](https://onetimesuite.com) — pay-once alternatives to subscription software.
+
 ## Demo
 
 
